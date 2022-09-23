@@ -1,0 +1,10 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.design{
+    padding: 5rem 0rem ;
+    background-color: blueviolet;
+    color: white;
+}
